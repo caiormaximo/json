@@ -1,0 +1,96 @@
+[
+    {
+        "dataEfetiva": "2023-09-01",
+        "valor": "51,90"
+    },
+
+    {
+        "dataEfetiva": "2023-09-01",
+        "valor": "43,00"
+    },
+
+    {
+        "dataEfetiva": "2023-09-01",
+        "valor": "12,00"
+    },
+
+    {
+        "dataEfetiva": "2023-09-02",
+        "valor": "21,80"
+    },
+
+    {
+        "dataEfetiva": "2023-09-02",
+        "valor": "26,50"
+    },
+
+    {
+        "dataEfetiva": "2023-09-02",
+        "valor": "32,00"
+    },
+
+    {
+        "dataEfetiva": "2023-09-02",
+        "valor": "33,90"
+    },
+
+    {
+        "dataEfetiva": "2023-09-03",
+        "valor": "50,90"
+    },
+
+    {
+        "dataEfetiva": "2023-09-03",
+        "valor": "1,49"
+    },
+
+    {
+        "dataEfetiva": "2023-09-04",
+        "valor": "0,59"
+    },
+
+    {
+        "dataEfetiva": "2023-09-01",
+        "valor": "-51,90"
+    },
+
+    {
+        "dataEfetiva": "2023-09-01",
+        "valor": "-8,00"
+    },
+
+    {
+        "dataEfetiva": "2023-09-01",
+        "valor": "-12,00"
+    },
+
+    {
+        "dataEfetiva": "2023-09-02",
+        "valor": "-21,80"
+    },
+
+    {
+        "dataEfetiva": "2023-09-02",
+        "valor": "-13,49"
+    },
+
+    {
+        "dataEfetiva": "2023-09-02",
+        "valor": "-5,48"
+    },
+
+    {
+        "dataEfetiva": "2023-09-02",
+        "valor": "-33,90"
+    },
+
+    {
+        "dataEfetiva": "2023-09-03",
+        "valor": "-2,00"
+    },
+
+    {
+        "dataEfetiva": "2023-09-04",
+        "valor": "-0,59"
+    }
+]
