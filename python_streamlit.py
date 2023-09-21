@@ -54,5 +54,7 @@ df = pd.DataFrame.from_records (lista, columns=["Data Efetiva","Débito", "Créd
 st.title('Processo de Selecao')
 st.subheader('Lancamentos passíveis de tratamento')
 st.markdown('Esta pagina irá retornar os lançamentos para tratamento '
-            'atendendo a parametros pre-definidos')
+            'atendendo aos parametros pre-definidos')
 st.dataframe(df)
+
+#https://pythonapp-sho5c4ur45x5cb5enfv6uu.streamlit.app/
