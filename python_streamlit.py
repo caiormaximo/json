@@ -51,10 +51,8 @@ for i in range(total):
 df = pd.DataFrame.from_records (lista, columns=["Data Efetiva","Débito", "Crédito"])
 
 # utilizando a biblioteca streamlit personalizamos a pagina web para entregar o resultado final
-st.title('PSI-13608')
+st.title('Processo de Selecao')
 st.subheader('Lancamentos passíveis de tratamento')
 st.markdown('Esta pagina irá retornar os lançamentos para tratamento '
-            'atendendo aos parametros definidos em produtacao tematica do PSI-13608')
+            'atendendo a parametros pre-definidos')
 st.dataframe(df)
-
-
