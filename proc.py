@@ -11,7 +11,7 @@ import streamlit as st
 import pandas as pd
 
 # armazena o endereço da consulta
-url = "https://raw.githubusercontent.com/caiormaximo/json/main/psi-13608.json"
+url = "https://raw.githubusercontent.com/caiormaximo/json/main/json.json"
 
 # armazena o retorno do endereço da consulta
 response = urlopen(url)
